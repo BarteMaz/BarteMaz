@@ -1,7 +1,7 @@
 ### Witajcie 👋
 Nazywam się Bartek i jestem studentem AGH.
 Obecnie staram jak najlepiej zapoznać się z githubem pracując razem z moimi kolegami.
-Wierzę, że w przyszłości dzięki mojej pracy będę mógł nazwać siebie pełnoprawnym inforamtykiem :)
+
 
 
 <!--
