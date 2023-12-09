@@ -3,6 +3,10 @@ Nazywam się Bartek i jestem studentem AGH.
 Obecnie staram jak najlepiej zapoznać się z githubem pracując razem z moimi kolegami.
 ### My Page
 https://bartemaz.github.io/
+### Fork
++ link to forked repository:
++ link to article on Papers with Code:
+
 
 
 
