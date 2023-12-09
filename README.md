@@ -4,8 +4,8 @@ Obecnie staram jak najlepiej zapoznać się z githubem pracując razem z moimi k
 ### My Page
 https://bartemaz.github.io/
 ### Fork
-+ link to forked repository:
-+ link to article on Papers with Code:
++ link to forked repository: https://github.com/BarteMaz/DeepFaceLab.git
++ link to article on Papers with Code: https://paperswithcode.com/paper/deepfacelab-a-simple-flexible-and-extensible
 
 
 
