@@ -1,7 +1,7 @@
 ### Witajcie 👋
 Nazywam się Bartek i jestem studentem AGH.
 Obecnie staram jak najlepiej zapoznać się z githubem pracując razem z moimi kolegami.
-### Moja strona
+### My Page
 https://bartemaz.github.io/
 
 
